@@ -1,0 +1,22 @@
+{
+"products" : [{"id":1,"name":"Accord","category":"Khaki"},
+{"id":2,"name":"Corrado","category":"Teal"},
+{"id":3,"name":"GTI","category":"Yellow"},
+{"id":4,"name":"6000","category":"Crimson"},
+{"id":5,"name":"928","category":"Orange"},
+{"id":6,"name":"88","category":"Mauv"},
+{"id":7,"name":"Millenia","category":"Teal"},
+{"id":8,"name":"Grand Caravan","category":"Violet"},
+{"id":9,"name":"Trans Sport","category":"Goldenrod"},
+{"id":10,"name":"350Z","category":"Yellow"},
+{"id":11,"name":"Express 3500","category":"Yellow"},
+{"id":12,"name":"Explorer","category":"Fuscia"},
+{"id":13,"name":"Prizm","category":"Blue"},
+{"id":14,"name":"Miata MX-5","category":"Mauv"},
+{"id":15,"name":"Solara","category":"Crimson"},
+{"id":16,"name":"Forester","category":"Khaki"},
+{"id":17,"name":"911","category":"Crimson"},
+{"id":18,"name":"LR4","category":"Yellow"},
+{"id":19,"name":"DTS","category":"Violet"},
+{"id":20,"name":"Chariot","category":"Aquamarine"}]
+}
